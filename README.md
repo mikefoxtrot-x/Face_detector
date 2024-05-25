@@ -8,3 +8,4 @@
   	Works on single image only.
 	Image must be downloaded/present in same folder.
  	Not GUI friendly, requires Terminal/VSCode.
+	Works on single face only.
